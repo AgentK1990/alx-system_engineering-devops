@@ -1,2 +1,1 @@
-#!bin/bash
-test 
+Shell I/O redirections
